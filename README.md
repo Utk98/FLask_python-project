@@ -9,7 +9,7 @@ pip install Flask
 
 **Running the Application**
 Clone the GitHub repository:
-  git clone https://github.com/Utk98/FLask_python-projec.git
+  git clone https://github.com/Utk98/FLask_python-project.git
   cd Flask_python-project
 
 **Run the Flask application:**
